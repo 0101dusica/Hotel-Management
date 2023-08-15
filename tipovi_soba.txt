@@ -1,0 +1,6 @@
+jednokrevetna|klima, nepustacka, tv
+dvokrevetna soba sa dva lezaja|klima, nepustacka, coffe aparat
+dvokrevetna soba sa jednim lezajem|klima, nepustacka, tv
+trokrevetna soba|klima, nepustacka, tv, spa kupatilo
+king soba|klima, nepustacka, tv, coffe aparat, spa kupatilo
+lux soba sa djakuzijem|klima, nepustacka, tv, coffe aparat, ketl, masina za pranje vesa, spa kupatilo

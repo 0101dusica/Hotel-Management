@@ -1,0 +1,12 @@
+0|otkazano|marko@gmail.com|12.05.2022|14.05.2022.|0|jednokrevetna|8|rucak
+1|odobreno|marko@gmail.com|23.06.2022|24.06.2022|3500|jednokrevetna|null|rucak
+2|odbijeno|marko@gmail.com|28.06.2022|30.06.2022|0|trokrevetna soba|null|dorucak
+3|odobreno|marko@gmail.com|26.05.2022|29.05.2022|10000|dvokrevetna soba sa jednim lezajem|4|dorucak
+4|otkazano|marko@gmail.com|19.06.2022|26.06.2022|85500|king soba|11|dorucak,rucak,vecera
+5|odbijeno|marko@gmail.com|28.07.2022|30.07.2022|0|king soba|null|dorucak,rucak
+6|odobreno|marko@gmail.com|17.08.2022|21.08.2022|20000|dvokrevetna soba sa dva lezaja|2|rucak
+7|odobreno|lazar@gmail.com|19.09.2022|24.09.2022|12500|jednokrevetna|6|dorucak,vecera
+8|odobreno|lazar@gmail.com|30.06.2022|04.07.2022|42000|lux soba sa djakuzijem|4|rucak
+9|na cekanju|marko@gmail.com|20.08.2022|27.08.2022|42000|dvokrevetna soba sa jednim lezajem|null|dorucak,vecera
+10|odbijeno|marko@gmail.com|01.07.2022|03.07.2022|0|lux soba sa djakuzijem|null|dorucak,vecera
+11|odobreno|marko@gmail.com|20.08.2022|27.08.2022|35000|dvokrevetna soba sa dva lezaja|2|rucak

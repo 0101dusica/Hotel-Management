@@ -1,0 +1,12 @@
+1|jednokrevetna|slobodna
+2|dvokrevetna soba sa dva lezaja|slobodna
+3|dvokrevetna soba sa dva lezaja|slobodna
+4|lux soba sa djakuzijem|slobodna
+5|trokrevetna soba|slobodna
+6|jednokrevetna|slobodna
+7|dvokrevetna soba sa jednim lezajem|slobodna
+8|jednokrevetna|slobodna
+9|trokrevetna soba|slobodna
+10|king soba|slobodna
+11|king soba|slobodna
+12|dvokrevetna soba sa jednim lezajem|slobodna

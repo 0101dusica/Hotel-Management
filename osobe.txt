@@ -1,0 +1,6 @@
+123|123|administrator|dusica|trbovic|zensko|20.08.2002.|0603789714|mose pijade 49, crvenka
+dusan@gmail.com|dusan123|recepcioner|Dusan|Dusanovic|muski|19.02.1987.|064517226|nikole pasica 10, novi sad|srednja skola|10|70000
+milica@gmail.com|milica123|sobarica|milica|milicevic|zensko|18.03.1987.|064413715|bulevar kralja petra 15, novi sad|srednja skola|15|55000|4
+tijana@gmail.com|tijana123|sobarica|tijana|tijanic|zensko|16.02.2002.|064738163|ive lole ribara 4a, kula|osnovna skola|4|24000|3
+marko@gmail.com|marko123|gost|marko|markovic|muski|13.04.1998.|067352745|vuka karadzica 15, sombor
+lazar@gmail.com|lazar123|gost|lazar|lazic|muski|09.09.2000.|067536153|trg svete petke 15, jagodina
